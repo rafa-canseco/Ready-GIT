@@ -6194,3 +6194,57 @@ textarea {
 }
 
 /*# sourceMappingURL=main.70a66962.map*/
+
+.titulo{
+ text-align: center;
+
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+.primero{
+    
+    width: 60%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+.segundo{
+    
+    width: 60%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    
+}
+.tercero{
+    
+    width: 60%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+.cuarto{
+    
+    width: 60%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+.boton{
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    font-size: medium;
+
+
+}
